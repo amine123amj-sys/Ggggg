@@ -1,0 +1,7 @@
+{
+  "name": "Veo Studio - AI Video Creator",
+  "description": "A cutting-edge AI video generation platform powered by Gemini Veo models. Create cinematic videos from text prompts and images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
